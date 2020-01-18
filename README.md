@@ -1,0 +1,2 @@
+nama : narko
+alamat : penumpaan
